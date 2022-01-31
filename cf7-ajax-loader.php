@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: CF7 AJAX-Loader
-Plugin URI: 
+Plugin URI: https://github.com/solidcreature/cf7-ajax-loader/
 Description: Less spam in CF7 with postponed initialiazation via AJAX
-Version: 
+Version: 1.0.0
 Author: Nikolay Mironov
 Author URI: https://wpfolio.ru
 License: 
